@@ -16,7 +16,6 @@ def hello():
 * 星号是圆点
 
 当定义一个新类的时候有**三个**不同的方式：
-
 1. 不需要重写任何初始化函数
 2. 重写 designated initializer
 3. 定义一个新的 designated initializer
