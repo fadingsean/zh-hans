@@ -25,3 +25,7 @@ def hello():
 第一个方案是最简单的：你不需要增加类的任何初始化逻辑，只需要依照父类的designated initializer。
 
 
+
+1. 这是测试
+2. hi
+3. 已
